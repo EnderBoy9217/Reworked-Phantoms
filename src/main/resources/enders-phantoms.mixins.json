@@ -3,7 +3,7 @@
 	"package": "com.enderboy9217.phantoms.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"PhantomMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
