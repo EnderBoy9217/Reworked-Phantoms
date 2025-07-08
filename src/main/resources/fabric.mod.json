@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "enders-template",
+	"id": "enders-phantoms",
 	"version": "${version}",
-	"name": "enders template",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Reworked Phantoms",
+	"description": "Changes Minecraft Phantom spawns to be less annoying and more useful.",
 	"authors": [
 		"EnderBoy9217"
 	],
@@ -12,14 +12,14 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "GPL-3.0",
-	"icon": "assets/enders-template/icon.png",
+	"icon": "assets/enders-phantoms/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.enderboy9217.template.EndersTemplate"
+			"com.enderboy9217.phantoms.EndersPhantoms"
 		],
 		"fabric-datagen": [
-			"com.enderboy9217.template.EndersTemplateDataGenerator"
+			"com.enderboy9217.phantoms.EndersPhantomsDataGenerator"
 		]
 	},
 	"mixins": [

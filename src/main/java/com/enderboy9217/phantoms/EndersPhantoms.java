@@ -1,12 +1,12 @@
-package com.enderboy9217.template;
+package com.enderboy9217.phantoms;
 
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class EndersTemplate implements ModInitializer {
-	public static final String MOD_ID = "enders-template";
+public class EndersPhantoms implements ModInitializer {
+	public static final String MOD_ID = "enders-phantoms";
 
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.

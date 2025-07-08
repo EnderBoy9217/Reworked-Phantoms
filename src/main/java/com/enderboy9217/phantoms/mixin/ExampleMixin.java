@@ -1,4 +1,4 @@
-package com.enderboy9217.template.mixin;
+package com.enderboy9217.phantoms.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
